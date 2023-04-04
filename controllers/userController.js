@@ -7,7 +7,7 @@ module.exports = {
       .then((users) => res.json(users))
       .catch((err) => res.status(500).json(err));
   },
-  // Get a single user. Though and friend data is populated when
+  // Get a single user. Thought and friend data is populated when
   // getting a single user.
   getSingleUser(req, res) {
     User.findOne({ _id: req.params.userId })
