@@ -32,4 +32,4 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 The following walkthrough video shows how to launch the backend social media API and use INSOMNIA to test GET, POST, PUT, and DELETE endpoints to create/update/delete users, add/remove friends, add/remove user thoughts, and add/remove reactions to user thoughts.
 
-[Social media backend walkthrough demonstration](https://drive.google.com/file/d/1mIT3LqCWxduum5QzfeFy7gv5886mQKsP/view)
+[Social media backend walkthrough demonstration](https://drive.google.com/file/d/1XSr5EEkIr2Lv0CTvSeeS_eubilRoUK9R/view)
